@@ -2,6 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+
+/**
+ * @author 
+ * Name: Thanat Jumneanbun
+ * Student number: 60843
+ * Date: 16/10/2024
+ * Lecturer’s name: Dr Nguyen Vo
+ */
 package LibraryManagementSystem;
 
 import LibraryManagementSystem.Patron;
@@ -9,10 +17,7 @@ import LibraryManagementSystem.Loan;
 import java.util.ArrayList;
 import java.util.Date;
 
-/**
- *
- * @author admin
- */
+
 public class Library {
 
     private String libraryName;

@@ -5,7 +5,11 @@
 
 /**
  *
- * @author admin
+ * @author 
+ * Name: Thanat Jumneanbun
+ * Student number: 60843
+ * Date: 16/10/2024
+ * Lecturer’s name: Dr Nguyen Vo
  */
 package LibraryManagementSystem;
 

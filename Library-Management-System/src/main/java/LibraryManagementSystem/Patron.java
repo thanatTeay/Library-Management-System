@@ -1,14 +1,12 @@
-package LibraryManagementSystem;
-
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
 /**
- *
- * @author admin
+ * @author 
+ * Name: Thanat Jumneanbun
+ * Student number: 60843
+ * Date: 16/10/2024
+ * Lecturer’s name: Dr Nguyen Vo
  */
+
+package LibraryManagementSystem;
 
 import LibraryManagementSystem.Book;
 import java.util.ArrayList;
